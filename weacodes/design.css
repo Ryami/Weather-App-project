@@ -62,3 +62,10 @@ h6 {
   border: 1px solid #885df1;
   color: #885df1;
 }
+
+.created {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 18px;
+}
